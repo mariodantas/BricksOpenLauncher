@@ -3,7 +3,6 @@
 # BricksOpenLauncher
 Android launcher app designed for use in car. Supports MirrorLink technology.
 
-**This is open source version of CarBricks launcher, that could be found on [Google Play Market](https://play.google.com/store/apps/details?id=in.evilcorp.brickslauncher)**
 
 You can install BricksOpenLauncher on Android-powered head unit or use with your personal phone or tablet. The app also supports usage with Mirrorlink-enabled* car multimedia systems (limited support), so you can have access to all your favourite apps directly from a car head unit.
 
